@@ -1,3 +1,6 @@
-# Lama Dev Animated 3D Portfolio Website Project
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Hi, I'm Joy Biswas 👋
+[<img src='/pr1' alt='Ali Hossain'>](https://github.com/joy-biswas-info/)
+### Start the project 👋
+<p>
+🖊️ npm i <br> 
+🖊️ npm run dev <br> 
