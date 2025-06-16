@@ -4,4 +4,4 @@
 <p>
 🖊️ npm i <br> 
 🖊️ npm run dev <br> <br >
-[![Live Link]][https://joy-biswas.vercel.app/]
+[Live Link]:[https://joy-biswas.vercel.app/]
