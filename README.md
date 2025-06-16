@@ -4,4 +4,9 @@
 <p>
 🖊️ npm i <br> 
 🖊️ npm run dev <br> <br >
-[Live Link]:[https://joy-biswas.vercel.app/]
+
+[![Button Joy]][Link]
+
+[Link]:https://joy-biswas.vercel.app/
+
+[Button Joy]: https://img.shields.io/badge/live_link-37a779?style=for-the-badge
