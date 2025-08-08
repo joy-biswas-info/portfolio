@@ -1,0 +1,24 @@
+.backendLayout {
+  display: flex;
+  height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #aab8f1;
+}
+
+/* Main layout content */
+.mainContent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  overflow-y: auto;
+}
+
+.pageContent {
+  margin-top: 1.5rem;
+  background: rgb(62, 62, 62);
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+  min-height: 80vh;
+}

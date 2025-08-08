@@ -1,0 +1,67 @@
+/* Wrapper Section */
+#services {
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  padding: 1rem 2rem;
+  margin: 100px 0;
+}
+
+/* Title */
+.sTitle {
+  font-size: 4.5rem;
+  font-weight: 700;
+  margin-bottom: 5rem;
+  text-align: center;
+  color: #fff;
+}
+
+/* Grid Layout */
+.service-grid {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(3, minmax(300px, 1fr));
+}
+
+/* Card */
+.service-card {
+  background: linear-gradient(to bottom, #2d124c, #35215e);
+  padding-bottom: 1rem;
+  border-radius: 1rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.service-card:hover {
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+  transform: translateY(-5px);
+}
+
+/* Image/Icon Wrapper */
+.service-icon {
+  margin-bottom: 1.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.service-icon img {
+  height: 280px;
+  max-width: 100%;
+  border-radius: 1rem 1rem 0 0;
+  object-fit: cover;
+}
+
+/* Title */
+.service-card h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 0.5rem;
+}
+
+.service-card p {
+  font-size: 0.95rem;
+  color: #fff;
+}
