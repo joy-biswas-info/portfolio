@@ -1,8 +1,11 @@
 [<img src='https://github.com/joy-biswas-info/portfolio/blob/main/public/pr1.png' alt='Joy Biswas'>](https://github.com/joy-biswas-info/)
 <br>
+
 # 🎨 Joy Biswas – Portfolio Website
 
-This is the personal portfolio website of **Joy Biswas**, built using modern web technologies including **React**, **Three.js**, and **Vite**. The site showcases Joy's professional skills, projects, and contact information in an interactive and visually engaging format.
+This is the personal portfolio website of **Joy Biswas**, built using modern web technologies
+including **React**, **Three.js**, and **Vite**. The site showcases Joy's professional skills,
+projects, and contact information in an interactive and visually engaging format.
 
 ## ✨ Features
 
@@ -34,6 +37,7 @@ npm run dev
 
 [![Button Joy]][Link]
 
-[Link]:https://joy-biswas.vercel.app/
+[Link]:https://joybiswasinfo.vercel.app/
 
 [Button Joy]: https://img.shields.io/badge/live_link-37a779?style=for-the-badge
+```
