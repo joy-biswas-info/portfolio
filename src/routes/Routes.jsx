@@ -1,8 +1,8 @@
 import { Routes, Route } from "react-router-dom";
 import Users from "../admin/pages/users/Users";
 import Profile from "../admin/pages/profile/Profile";
-import BackendLayout from "../layout/BackendLayout";
-import FrontendLayout from "../layout/FrontendLayout";
+import BackendLayout from "../layout/AdminLayout";
+import FrontendLayout from "../layout/ClientLayout";
 import Home from "../client/pages/home/Home";
 import About from "../client/pages/about/About";
 import Shop from "../client/pages/shop/Shop";

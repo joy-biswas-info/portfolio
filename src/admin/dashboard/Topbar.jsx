@@ -1,5 +1,4 @@
 import styles from "./dashboard.module.css";
-
 const Topbar = () => {
   return (
     <header className={styles.topbar}>

@@ -1,5 +1,5 @@
 import { Outlet } from "react-router-dom";
-import Navbar from "../frontend/components/navbar/Navbar";
+import Navbar from "../client/components/navbar/Navbar";
 
 const FrontendLayout = () => {
   return (
