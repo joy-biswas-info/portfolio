@@ -1,12 +1,11 @@
 import { Outlet } from "react-router-dom";
-
-import styles from "./backendLayout.module.css";
-import Sidebar from "../backend/dashboard/Sidebar";
-import Topbar from "../backend/dashboard/Topbar";
+import styles from "./adminLayout.module.css";
+import Sidebar from "../admin/dashboard/Sidebar";
+import Topbar from "../admin/dashboard/Topbar";
 
 const BackendLayout = () => {
   return (
-    <div className={styles.backendLayout}>
+    <div className={styles.adminLayout}>
       <Sidebar />
       <div className={styles.mainContent}>
         <Topbar />

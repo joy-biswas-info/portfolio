@@ -1,15 +1,13 @@
 import { Routes, Route } from "react-router-dom";
-
-// import Home from "../frontend/pages/home/Home";
-import Dashboard from "../backend/dashboard/Dashboard";
-import Users from "../backend/pages/users/Users";
-import Profile from "../backend/pages/profile/Profile";
+import Users from "../admin/pages/users/Users";
+import Profile from "../admin/pages/profile/Profile";
 import BackendLayout from "../layout/BackendLayout";
 import FrontendLayout from "../layout/FrontendLayout";
-import Home from "../frontend/pages/home/Home";
-import About from "../frontend/pages/about/About";
-import Shop from "../frontend/pages/shop/Shop";
-import Blog from "../frontend/pages/blog/Blog";
+import Home from "../client/pages/home/Home";
+import About from "../client/pages/about/About";
+import Shop from "../client/pages/shop/Shop";
+import Blog from "../client/pages/blog/Blog";
+import Dashboard from "../admin/dashboard/Dashboard";
 
 const AppRoutes = () => {
   return (
