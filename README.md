@@ -36,7 +36,6 @@ npm install
 npm run dev
 
 [![Button Joy]][Link]
-
 [Link]:https://joybiswasinfo.vercel.app/
 
 [Button Joy]: https://img.shields.io/badge/live_link-37a779?style=for-the-badge
