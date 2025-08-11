@@ -1,7 +1,7 @@
 import { Outlet } from "react-router-dom";
 import Navbar from "../client/components/navbar/Navbar";
 
-const FrontendLayout = () => {
+const ClientLayout = () => {
   return (
     <main className="frontend-layout">
       <Navbar />
@@ -10,4 +10,4 @@ const FrontendLayout = () => {
   );
 };
 
-export default FrontendLayout;
+export default ClientLayout;

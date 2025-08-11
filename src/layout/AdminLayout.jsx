@@ -3,7 +3,7 @@ import styles from "./adminLayout.module.css";
 import Sidebar from "../admin/dashboard/Sidebar";
 import Topbar from "../admin/dashboard/Topbar";
 
-const BackendLayout = () => {
+const AdminLayout = () => {
   return (
     <div className={styles.adminLayout}>
       <Sidebar />
@@ -17,4 +17,4 @@ const BackendLayout = () => {
   );
 };
 
-export default BackendLayout;
+export default AdminLayout;
